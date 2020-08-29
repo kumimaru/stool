@@ -1,3 +1,3 @@
 function recordStool() {
-  const calendar = CalendarApp
+  const calendar = CalendarApp.getCalendarById(id)
 }
